@@ -38,3 +38,11 @@ next-env.d.ts
 ## Panda
 styled-system
 styled-system-studio
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
